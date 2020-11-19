@@ -10,4 +10,4 @@ import turtle
 import pandas as pd
 from pandastable import Table
 ```
-The functioning of the app is explained in the video.
+Thanks for visiting!
