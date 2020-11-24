@@ -14,3 +14,6 @@ Thanks for visiting!
 
 
 (Don't forget to put the path of the file containing your time like this(do mention the sheet number and use an excel file only if you don't know how to import csv or txt files): "C:\\Users\\Lenovo\\PycharmProjects\\ATLHackathon\\TIME TABLE IMPLANT - 1.xlsx", "Sheet1")
+
+
+Youtube Video Link: https://youtu.be/96VALBVcmO0
